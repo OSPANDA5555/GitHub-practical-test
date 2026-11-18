@@ -2,9 +2,7 @@
 
 ## Live Demo
 
-- **Default (Dark Slate Theme):** [https://ospanda5555.github.io/GitHub-practical-test/](https://ospanda5555.github.io/GitHub-practical-test/)
-- **Teal Theme Preview:** [https://ospanda5555.github.io/GitHub-practical-test/teal.html](https://ospanda5555.github.io/GitHub-practical-test/teal.html)
-- **Indigo Theme Preview:** [https://ospanda5555.github.io/GitHub-practical-test/indigo.html](https://ospanda5555.github.io/GitHub-practical-test/indigo.html)
+- **Live Website:** [https://ospanda5555.github.io/GitHub-practical-test/](https://ospanda5555.github.io/GitHub-practical-test/)
 
 ## Student Details
 
